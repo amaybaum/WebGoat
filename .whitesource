@@ -4,6 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
+    "javaVersion": 8,
     "enableReachability": false
   },
   "checkRunSettings": {
